@@ -1,5 +1,8 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     # Executa todo dia à meia-noite UTC
