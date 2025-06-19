@@ -50,7 +50,7 @@
 
 ### 🐍 Animação dos meus commits (Snake Game):
 
-![Snake animation](https://github.com/c0deby4g4th4/c0deby4g4th4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/c0deby4g4th4/c0deby4g4th4/master/dist/github-contribution-grid-snake.svg)
 
 ---
 
