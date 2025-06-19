@@ -32,9 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c0deby4g4th4&show_icons=true&theme=blueberry" alt="Estatísticas GitHub" />
-</p>
-
-<p align="center">
+</p> <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0deby4g4th4&layout=compact&theme=blueberry" alt="Linguagens mais usadas" />
 </p>
 
