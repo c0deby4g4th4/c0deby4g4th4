@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Im Call Ágatha Marchon 👩🏼‍💻 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Front-End+Junior;HTML+CSS+JavaScript+;Buscando+Minha+Primeira+Vaga+Dev+👩🏼‍💻&center=true&width=500&height=50&color=FF69B4" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Front-End+Junior;HTML+CSS+JavaScript+;Estou+Buscando+Minha+Primeira+Vaga+Dev+👩🏼‍💻&center=true&width=500&height=50&color=FF69B4" />
 </p>
 
 ---
