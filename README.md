@@ -48,7 +48,7 @@
   
 ---
 
-### 🐍 Animação dos meus commits (Snake Game):
+### 🐍 MeusCommits (Snake Game):
 
 ![Snake animation](https://raw.githubusercontent.com/c0deby4g4th4/c0deby4g4th4/master/dist/github-contribution-grid-snake.svg)
 
