@@ -8,9 +8,8 @@
 
 ### ✨ Sobre mim
 
-- 🌱 Em transição das áreas de **Administração e Contabilidade** para **Desenvolvimento Front-End**
-- 📚 Estudando **HTML5, CSS3, JavaScript,** iniciando com **C#** e **.NET**
-- 🌐 Foco em criação de interfaces web funcionais, acessíveis e organizadas
+- 🌱 Em transição da área de **Administração Clínica** para **Desenvolvimento FullStack**
+- 🌐 Foco em criação de interfaces web responsivas, acessíveis e organizadas
 - 🎯 Buscando minha primeira oportunidade como desenvolvedora junior
 - 📍  Rio das Ostras | RJ
 - 💬 Aberta para networking e projetos colaborativos
