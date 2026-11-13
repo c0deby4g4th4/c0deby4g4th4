@@ -27,18 +27,6 @@
 
 ---
 
-### 📈 Minhas estatísticas no GitHub:
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0deby4g4th4&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0deby4g4th4&layout=compact&theme=dracula" />
-
-</div>
-
-
----
-
 ### 🧰 Projetos recentes:
 
 - 📌 [To-Do List - Projeto Front-End](https://github.com/c0deby4g4th4/nome-do-repositorio-to-do-list)
